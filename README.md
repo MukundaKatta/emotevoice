@@ -64,6 +64,3 @@ components/
   voice/                # Voice recorder and TTS components
 ```
 
-## License
-
-MIT
